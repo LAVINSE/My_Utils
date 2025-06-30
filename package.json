@@ -1,4 +1,9 @@
 {
-	"name" : MyUtils
-	"version" : 0.4
+	"name": "com.yourname.swutils",
+	"version": "0.4",
+	"displayName": "SwUtils",
+	"description": "A collection of utility scripts used in the Scripts/SwUtils folder.",
+	"author": {
+		"name": "LAVINSE"
+	}
 }
